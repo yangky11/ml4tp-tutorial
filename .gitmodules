@@ -1,3 +1,4 @@
 [submodule "llm_assisted_mathematics_in_lean"]
 	path = llm_assisted_mathematics_in_lean
 	url = https://github.com/yangky11/llm_assisted_mathematics_in_lean
+ | 
